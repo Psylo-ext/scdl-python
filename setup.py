@@ -26,6 +26,7 @@ setup(
         "mutagen>=1.45.0",
         "termcolor",
         "requests",
+        "python-ffmpeg",
         "clint",
         "pathvalidate",
         "soundcloud-v2>=1.3.7"
